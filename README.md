@@ -1,4 +1,4 @@
-![Optional Text](../readme.png)
+<img src="../readme.png" alt="Chat Application"/>
 
 
 
