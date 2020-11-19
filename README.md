@@ -1,4 +1,4 @@
-<img src="../readme.png" alt="Chat Application"/>
+![chat-applications](https://github.com/saurav-skl/peers-chat/blob/master/public/readme.png)
 
 
 
